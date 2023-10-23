@@ -1,0 +1,8 @@
+#grid-1{
+    display: grid;
+    background-color:aqua;
+    width: 600px;
+    grid-template-columns: 100px 100px;
+}
+
+ 
