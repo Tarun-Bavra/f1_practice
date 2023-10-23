@@ -1,6 +1,21 @@
 #grid-1 {
   display: grid;
-  grid-template-columns: 1fr 5fr;
+  grid-template-columns: 100px 1fr 2fr;
   background-color: aqua;
-  width: 600px; 
+  width: 50vw; 
+}
+#a{
+    background-color: blue;
+}
+#b{
+    background-color: bisque;
+}
+#c{
+    background-color: blueviolet;
+}
+#d{
+    background-color: yellow;
+}
+#e{
+    background-color: yellowgreen;
 }
