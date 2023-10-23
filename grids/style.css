@@ -1,4 +1,6 @@
 #grid-1 {
-  background-color: aquamarine;
   display: grid;
+  grid-template-columns: 1fr 5fr;
+  background-color: aqua;
+  width: 600px; 
 }
